@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "MultiPlanet",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "MultiPlanet",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "MultiPlanet"
+}
